@@ -11,12 +11,13 @@ $$
 \Lambda^{*} = \\{ \lambda \in \mathbb{R}^{d} \vert \langle \lambda,\Lambda\rangle \subseteq \mathbb{Z} \\}.
 $$
 
-On $\mathbb{R}^d$, we define the following map to be the Fourier transform.
+On $\mathbb{R}^d$, we define the following map to be the Fourier transform $\mathcal{F}: \mathcal{S}(\mathbb{R}^{d})  \mapsto 
+\mathcal{S}(\mathbb{R}^{d})$ given as 
 
 $$
-\mathcal{F}: \mathcal{S}(\mathbb{R}^{d})  \mapsto 
-\mathcal{S}(\mathbb{R}^{d}) 
+\hat{f}(\xi) = \int_{\mathbb{R}^{d}} f(x)e^{-2\pi i \langle  x,\xi \rangle}dx .
 $$
+
 
 Here $\mathcal{S}(\mathbb{R}^{d})$ is the space of Schwartz function on $\mathbb{R}^d$.
 
