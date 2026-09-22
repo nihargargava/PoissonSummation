@@ -35,5 +35,9 @@ $$
 # AI Policy
 
 
-The goal of this repository is for the author to become more proficient in Lean. No AI use is allowed or welcomed here.
-LLMs may be used as a learning resource.
+The goal of this repository is for the author to become more proficient in Lean. 
+No AI use is allowed or welcomed here. However, LLMs may be usef for the following use cases.
+
+- LLMs may be used as a learning resource
+- For boilerplate lean stuff. Eg: `lakefile.lean`
+- For fixing grammar/typos in comments etc.

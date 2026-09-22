@@ -1,2 +1,26 @@
-# cache and other artifacts produced by Lean's Lake build tool
+# Lean / Lake build artifacts and local caches
 .lake/
+*.olean
+*.ilean
+*.cmt
+*.cmi
+
+# Editor and language-server metadata
+.vscode/
+.idea/
+.metals/
+*.swp
+*.swo
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files and workspace metadata from coding agents/chat tools
+.agents/
+.codex/
+.agent-tmp/
+.chat-tmp/
+codex-*.tmp
+agent-*.tmp
+chat-*.tmp
