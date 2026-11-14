@@ -41,3 +41,7 @@ No AI use is allowed or welcomed here. However, LLMs may be usef for the followi
 - LLMs may be used as a learning resource
 - For boilerplate lean stuff. Eg: `lakefile.lean`
 - For fixing grammar/typos in comments etc.
+
+I use Codex in this repository. But it's only because I am a complete noob. 
+Note that I put in my AGENTS.md to never tell me the answer and never edit lean files. It only gives me hints.
+
