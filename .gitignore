@@ -24,3 +24,5 @@ Thumbs.db
 codex-*.tmp
 agent-*.tmp
 chat-*.tmp
+
+.gitignore
