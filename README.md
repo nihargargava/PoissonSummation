@@ -25,7 +25,7 @@ Let $\hat{f}= \mathcal{F}(f)$ for some Schwartz function $f \in \mathcal{S}(\mat
 
 $$
 \sum_{v \in \Lambda} f(v) = 
-\frac{1}{\\mathrm{vol}(\mathbb{R}^{d}/\Lambda )} \sum_{\lambda \in \Lambda^{*}} \hat{f}(v).
+\frac{1}{\\mathrm{vol}(\mathbb{R}^{d}/\Lambda )} \sum_{\lambda \in \Lambda^{*}} \hat{f}(\lambda).
 $$
 
 --------------------------------------------------
@@ -36,7 +36,7 @@ $$
 
 
 The goal of this repository is for the author to become more proficient in Lean. 
-No AI use is allowed or welcomed here. However, LLMs may be usef for the following use cases.
+No AI use is allowed or welcomed here. However, LLMs may be used for the following use cases.
 
 - LLMs may be used as a learning resource
 - For boilerplate lean stuff. Eg: `lakefile.lean`
