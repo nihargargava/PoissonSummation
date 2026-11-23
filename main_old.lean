@@ -1,3 +1,8 @@
+-- This file was Nihar fooling around with definitions
+-- It's now old. The plan is to now work with PoissonSummation_mathlib
+-- And try to generalize the proof directly to R^n
+
+
 import Mathlib.Analysis.Distribution.SchwartzSpace.Basic
 import Mathlib.Analysis.Distribution.SchwartzSpace.Fourier
 import Mathlib.Analysis.Fourier.PoissonSummation
